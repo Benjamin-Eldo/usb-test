@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="usb4java.javax" type="repository">
+    <properties maven-id="org.usb4java:usb4java-javax:1.3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/usb4java-javax/1.3.0/usb4java-javax-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/usb/usb-api/1.0.2/usb-api-1.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/usb4java/1.3.0/usb4java-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/libusb4java/1.3.0/libusb4java-1.3.0-linux-x86.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/libusb4java/1.3.0/libusb4java-1.3.0-linux-x86-64.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/libusb4java/1.3.0/libusb4java-1.3.0-win32-x86.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/libusb4java/1.3.0/libusb4java-1.3.0-win32-x86-64.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/libusb4java/1.3.0/libusb4java-1.3.0-darwin-x86-64.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/libusb4java/1.3.0/libusb4java-1.3.0-linux-arm.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/usb4java/libusb4java/1.3.0/libusb4java-1.3.0-linux-aarch64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
